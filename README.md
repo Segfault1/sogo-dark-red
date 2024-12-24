@@ -7,7 +7,7 @@ Created by mailcow official documentation - https://docs.mailcow.email/manual-gu
 Download theme to /opt/mailcow-dockerized/data/conf/sogo/
 ``` bash
 cd /opt/mailcow-dockerized/data/conf/sogo/
-wget https://raw.githubusercontent.com/NlightN22/sogo-dark-red/main/custom-theme.css
+wget https://raw.githubusercontent.com/Segfault1/sogo-dark-red/main/custom-theme.css
 ```
 Update or create /opt/mailcow-dockerized/docker-compose.override.yml:
 ```yml
